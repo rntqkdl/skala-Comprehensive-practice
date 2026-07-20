@@ -2,7 +2,7 @@
 [소스 파일 정보]
 - 작성자: 안성민 (광주 4반)
 - 작성일: 2026-07-20
-- 파일 역할: pytest를 활용하여 Pydantic 모델의 정상/오류(150% 강수확률 등) 케이스를 방어하는지 검증하는 단위 테스트 파일
+- 파일 역할: pytest를 활용하여 Pydantic 모델의 정상/오류(150% 강수확률 등) 케이스를 방어하는지 검증하는 단위 테스트 파일.
 """
 import pytest
 from pydantic import ValidationError

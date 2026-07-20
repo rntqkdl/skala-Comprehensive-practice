@@ -2,7 +2,7 @@
 [소스 파일 정보]
 - 작성자: 안성민 (광주 4반)
 - 작성일: 2026-07-20
-- 파일 역할: Pydantic v2를 이용한 API 응답 데이터 구조 정의 및 유효성 검증(타입/범위) 담당
+- 파일 역할: Pydantic v2를 이용한 API 응답 데이터 구조 정의 및 유효성 검증(타입/범위).
 """
 from pydantic import BaseModel, Field
 from typing import List, Optional, Annotated
